@@ -1,0 +1,1 @@
+This is [car.make = ${car.make}], and this is [car.model = ${car.model}]
